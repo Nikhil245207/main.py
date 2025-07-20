@@ -2,7 +2,7 @@
 
 This is a simple machine learning web app built with **Streamlit** that predicts house prices based on the size of the house using **Linear Regression**.
 
-![Streamlit Screenshot](https://via.placeholder.com/800x400?text=Add+Your+App+Screenshot+Here)
+![Streamlit Screenshot](https://mainpy-eqcymaq6tyhseb5y7y4ybs.streamlit.app/)
 
 ## 📌 Features
 
@@ -22,5 +22,5 @@ This is a simple machine learning web app built with **Streamlit** that predicts
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone 👉 https://github.com/Nikhil245207/main.py
+   
